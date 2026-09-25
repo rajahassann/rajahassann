@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey there 👋 I'm Raja Hassan
+
+
+Currently a first year undergrad Computer Engineer student at Bilkent University
 
 <!--
 **rajahassann/rajahassann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
